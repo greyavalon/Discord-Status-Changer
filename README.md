@@ -1,5 +1,6 @@
 **REMEMBER TO INSTALL PYTHON FROM MICROSOFT STORE BEFORE DOWNLOADING**
 
+**USE SETUP.BAT TO OPEN, SCRIPT WILL NOT OPEN MANUALLY.**
 Discord Status Changer is an open source program that allows you to set custom statuses to automatically cycle through.
 R to start cycling.
 X to stop.
